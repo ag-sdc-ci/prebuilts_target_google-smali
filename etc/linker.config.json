@@ -1,0 +1,11 @@
+{
+	"provideLibs": [	
+		    "libdummy_ext_google_smali-x86_64-v2.so",
+		    "libdummy_ext_google_smali.so",
+		    "libdummy_shared_google-smali-x86_64-v2.so",
+		    "libdummy_shared_google-smali.so",
+		    "libdummy_shared_google_smali-x86_64-v2.so",
+		    "libdummy_shared_google_smali.so"
+	],
+	"visible": true
+}
